@@ -1,6 +1,6 @@
 import sublime, sublime_plugin
 
-class SublimeCastlingCommand(sublime_plugin.TextCommand):
+class SublimecastlingCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		view = self.view;
 		try:
