@@ -1,0 +1,13 @@
+[  
+    {  
+        "id": "selection",  
+        "children":  
+        [  
+            {
+                "caption": "Sublime Castling",
+                "command": "sublimeCastling"
+            }
+            
+        ]  
+    }    
+]
