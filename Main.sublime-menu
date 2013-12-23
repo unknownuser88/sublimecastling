@@ -4,7 +4,7 @@
         "children":  
         [  
             {
-                "caption": "sublimecastling",
+                "caption": "sublime Castling",
                 "keys": ["ctrl+shift+q"],
                 "command": "sublimecastling"
             }
