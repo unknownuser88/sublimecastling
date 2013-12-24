@@ -6,7 +6,7 @@ This plugin allows you to replace two parts of code you have selected in your su
 
 ## Screenshot
 
-[ScreenShot](https://raw.github.com/unknownuser88/sublimecastling/master/screenshot.PNG)
+![ScreenShot](https://raw.github.com/unknownuser88/sublimecastling/master/screenshot.PNG)
 
 ## Install
 
