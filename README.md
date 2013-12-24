@@ -4,6 +4,10 @@ Sublime Castling
 ## Summary
 This plugin allows you to replace two parts of code you have selected in your sublime editor.
 
+## Screenshot
+
+[ScreenShot](https://raw.github.com/unknownuser88/sublimecastling/master/screenshot.PNG)
+
 ## Install
 
 #### Git Clone
