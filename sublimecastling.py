@@ -5,7 +5,7 @@ class SublimecastlingCommand(sublime_plugin.TextCommand):
 		view = self.view;
 		try:
 			view.sel()[1];
-			if not (view.sel()[0].empty() and view.sel()[1].empty()
+			if not (view.sel()[0].empty() and view.sel()[1].empty())
 				s1 = view.substr(view.sel()[0]);
 				s2 = view.substr(view.sel()[1]);
 				self.view.replace(edit, view.sel()[0], s2);
