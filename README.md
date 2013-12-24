@@ -22,7 +22,7 @@ The default key binding is "ctrl+shift+q"
 
 Unfortunately there are other plugins that use "ctrl+shift+q", this is a hard problem to solve. If sublimecastling doesn't work, then you have two options:
 
-1. Add ```{"keys": ["ctrl+shift+q"],  "command": "sublimeCastling"}``` to your user keybindings file. This will override anything specifid by a plugin.
+1. Add ```{"keys": ["ctrl+shift+q"],  "command": "sublimecastling"}``` to your user keybindings file. This will override anything specifid by a plugin.
 2. Find the offending plugin, and change the shortcut in its sublime-keymap file (will revert on updates)
 
 
